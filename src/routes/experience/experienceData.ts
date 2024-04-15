@@ -85,7 +85,7 @@ export const other: OtherExperience[] = [
 	},
 	{
 		title: 'Svelte/SvelteKit Class',
-		date: new Date(2022, 2),
+		date: new Date(2024, 4),
 		tags: [threejs, svelte, reactjs, ts, blender],
 		description:
 			'Taught a professional development class to peers implementations of threejs 3D rendering library.  Demonstration included the same 3D scene being rendered using only the threejs library, a React implementation of the same scene using react-three-fiber, and a Svelete implementation using threlte.  The scene demonstration model creation in Blender 3D modeling software, data serialization to GLTF, model loading, scene building with lighting, and custom shaders using WebGL + glsl custom shaders.'
