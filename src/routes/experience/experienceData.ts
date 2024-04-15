@@ -84,7 +84,7 @@ export const other: OtherExperience[] = [
 			"Taught a professional development class to peers on Svelte and SvelteKit.  Class demonstrated basic markup, templates, special components, state management, and element directives.  SvelteKit portion described new directory based routing system and discussed the relavance to the team as it being a model for NextJS's upcoming changes."
 	},
 	{
-		title: 'Svelte/SvelteKit Class',
+		title: 'ThreeJS Class',
 		date: new Date(2024, 4),
 		tags: [threejs, svelte, reactjs, ts, blender],
 		description:
