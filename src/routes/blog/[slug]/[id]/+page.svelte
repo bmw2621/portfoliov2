@@ -10,9 +10,6 @@
 <p>{data.post.description}</p>
 <hr />
 {@html data.post.body_html}
-<pre>
-    {JSON.stringify(data, null, 2)}
-</pre>
 
 <style>
 	h1 {
